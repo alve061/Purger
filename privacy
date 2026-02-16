@@ -1,0 +1,9 @@
+# Purge Privacy Policy
+
+## Overview
+Purge is a minimal Discord bot designed that lets users mass-delete messages using Discord's bulk-delete funktionality.
+
+You can access the bot's source code here: https://github.com/alve9061/purger
+
+## Stored data
+Purge does not store any personal data that can be used to identify users of the bot.
